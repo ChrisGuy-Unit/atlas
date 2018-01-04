@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: repo
+  repo: ChrisGuy-Unit/atlas
   branch: master
   
 media_folder: "static/uploads"
